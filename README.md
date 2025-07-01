@@ -71,8 +71,8 @@ This makes Spammer a great showcase of **real-world ML deployment**, beyond just
 ![Web UI spam](images/spammer02.png)
 
 **API Testing in Postman**  
-![Postman API message](images/spammer04)
-![Postman API delete](images/spammer05)
+![Postman API message](images/spammer04.png)
+![Postman API delete](images/spammer05.png)
 ---
 
 ## ✨ About
