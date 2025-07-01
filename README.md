@@ -67,12 +67,12 @@ This makes Spammer a great showcase of **real-world ML deployment**, beyond just
 
 
 **Web Interface**  
-![Web UI Ham](spammer01.png)
-![Web UI spam](spammer02.png)
+![Web UI Ham](images/spammer01.png)
+![Web UI spam](images/spammer02.png)
 
 **API Testing in Postman**  
-![Postman API Screenshot](images/postman_test.png)
-
+![Postman API message](images/spammer04)
+![Postman API delete](images/spammer05)
 ---
 
 ## ✨ About
